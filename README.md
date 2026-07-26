@@ -135,5 +135,7 @@ This project is licensed under the GPL-2.0-or-later license.
 #  لینک ها:
 
 [هیرکا - منطقه آزاد مازندران](https://hirca.ir/)
+ | 
 [طراحی سایت و کد نویسی](https://katiya.ir/)
+ |
 [تعمیرات مازندران](https://mazlisting.ir)
