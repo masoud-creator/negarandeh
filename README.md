@@ -62,6 +62,11 @@
 
 ---
 
+# لینک مخزن وردپرس:
+
+[wordpress.org/plugins/negarandeh/
+](https://wordpress.org/plugins/negarandeh/)
+همچنین برای نصب می توانید نام negarandeh را در قسمت افزونه های داشبورد وردپرس جستجو نمایید.
 # 🎯 مناسب برای:
 
 نگارنده برای موارد زیر مناسب است:
